@@ -1,6 +1,5 @@
 # Data Scientist & Data Analyst
 #### Technical Skills: Python, SQL, AWS, Power Bi
-![image](https://github.com/Eglasiuk/ElianaGlasiuk.github.io/blob/main/Assets/me.jpg)
 
 ### Work Experience
 **Lead Data Analyst & Data Science Ntt Data  (Jun 2023-Present)**
@@ -18,7 +17,11 @@
 
 The main objective of this work is to carry out a market segmentation that allows the different countries to be grouped considering the Argentine exports of medical equipment that they made. To this end, we worked with information on this type of trade, along with variables considered of interest to characterize each of the nations included. Within the commercial information was the value and share of imports from Argentina (in addition to other relevant countries). On the other hand, 50 variables are offered that summarize the health, demographic and economic conditions of the countries.
 - [Python Code](https://github.com/Eglasiuk/IntroProgramacionFCEUNC/blob/main/Copia_de_G6_Entrega_Final.ipynb) 
-- [Pdf](https://github.com/Eglasiuk/IntroProgramacionFCEUNC/blob/main/INFORME_entregaFinal.pdf) 
+- [Pdf](https://github.com/Eglasiuk/IntroProgramacionFCEUNC/blob/main/INFORME_entregaFinal.pdf)
+
+  <img src="https://github.com/Eglasiuk/ElianaGlasiuk.github.io/blob/main/Assets/k-means.JPG" alt="image" width="450" height="250">
+  <img src="https://github.com/Eglasiuk/ElianaGlasiuk.github.io/blob/main/Assets/tree.JPG" alt="image" width="450" height="250">
+
 
 
 
