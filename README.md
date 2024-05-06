@@ -16,7 +16,8 @@
 
 | Name | Description | Links |
 | ----------- | ----------- | ----------- |
-| **Argentine Exports of Medical Equipment** | The main objective of this work is to carry out a market segmentation that allows the different countries to be grouped considering the Argentine exports of medical equipment that they made. To this end, we worked with information on this type of trade, along with variables considered of interest to characterize each of the nations included. Within the commercial information was the value and share of imports from Argentina (in addition to other relevant countries). On the other hand, 50 variables are offered that summarize the health, demographic and economic conditions of the countries.| [Argentine Exports of Medical Equipment - Pdf](https://github.com/Eglasiuk/IntroProgramacionFCEUNC/blob/main/INFORME_entregaFinal.pdf) - [Argentine Exports of Medical Equipment - Python](https://github.com/Eglasiuk/IntroProgramacionFCEUNC/blob/main/Copia_de_G6_Entrega_Final.ipynb)|
+| **Argentine Exports of Medical Equipment** | The main objective of this work is to carry out a market segmentation that allows the different countries to be grouped considering the Argentine exports of medical equipment that they made. To this end, we worked with information on this type of trade, along with variables considered of interest to characterize each of the nations included. Within the commercial information was the value and share of imports from Argentina (in addition to other relevant countries). On the other hand, 50 variables are offered that summarize the health, demographic and economic conditions of the countries.| - [Argentine Exports of Medical Equipment - Pdf](https://github.com/Eglasiuk/IntroProgramacionFCEUNC/blob/main/INFORME_entregaFinal.pdf) - 
+- [Argentine Exports of Medical Equipment - Python](https://github.com/Eglasiuk/IntroProgramacionFCEUNC/blob/main/Copia_de_G6_Entrega_Final.ipynb)|
 
 
 
