@@ -1,6 +1,6 @@
 # Data Scientist & Data Analyst
 #### Technical Skills: Python, SQL, AWS, Power Bi
-
+![image](https://github.com/Eglasiuk/ElianaGlasiuk.github.io/blob/main/Assets/me.jpg)
 
 ### Work Experience
 **Lead Data Analyst & Data Science Ntt Data  (Jun 2023-Present)**
